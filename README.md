@@ -1,9 +1,9 @@
-OptiPop Project Manifest
+DARKPOP Project Manifest
 ===================
 
 To initialize your local repository use
 
-    repo init -u https://github.com/OptiPop/manifest.git -b dark-5.1
+    repo init -u https://github.com/DARKPOP/manifest.git -b dark-5.1
     
 
 Then to sync up:
