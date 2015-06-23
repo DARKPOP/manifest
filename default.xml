@@ -22,18 +22,10 @@
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
-  <project path="device/asus/grouper" name="OptiPop/device_asus_grouper" remote="gh" revision="opti-5.1" />
-  <project path="kernel/asus/grouper" name="OptiPop/kernel_asus_grouper" remote="gh" revision="opti-5.1" />
-  <project path="device/asus/flo" name="OptiPop/device_asus_flo" remote="gh" revision="opti-5.1" />
-  <project path="kernel/asus/kernel-flo" name="freak97/kernel-flo" remote="gh" revision="lollipop" />
   <project path="device/lge/hammerhead" name="DARKPOP/device_lge_hammerhead" remote="gh" revision="dark-5.1" />
   <project path="kernel/lge/hammerhead" name="Cl3Kener/UBER-L" remote="gh" revision="optipop" />
-  <project path="device/lge/mako" name="OptiPop/device_lge_mako" remote="gh" revision="opti-5.1" />
-  <project path="kernel/lge/mako" name="hellsgod/hells-Core-N4" remote="gh" revision="l-mr1" />
   <project path="device/moto/shamu" name="DARKPOP/device_moto_shamu" remote="gh" revision="dark-5.1" />
   <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="master" />
-  <project path="device/samsung/manta" name="OptiPop/android_device_samsung_manta" remote="gh" revision="master" />
-  <project path="kernel/samsung/manta" name="khaon/android_kernel_samsung_manta" remote="gh" revision="khaon-new" />
   <project path="external/aac" name="platform/external/aac"/>
   <project path="external/android-clat" name="platform/external/android-clat" />
   <project path="external/ant-glob" name="platform/external/ant-glob" />
