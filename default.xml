@@ -84,7 +84,7 @@
   <project path="external/conscrypt" name="platform/external/conscrypt" />
   <project path="external/deqp" name="platform/external/deqp" />
   <project path="external/dexmaker" name="platform/external/dexmaker" />
-  <project path="external/dhcpcd" name="platform/external/dhcpcd" />
+  <project path="external/dhcpcd" name="DARKPOP/external_dhcpcd" remote="gh" revision="dark-5.1" />
   <project path="external/dnsmasq" name="DARKPOP/external_dnsmasq" remote="gh" revision="dark-5.1" />
   <project path="external/doclava" name="platform/external/doclava" />
   <project path="external/droiddriver" name="platform/external/droiddriver" />
