@@ -19,7 +19,7 @@
   <project path="bionic" name="DARKPOP/bionic" remote="gh" revision="dark-5.1" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/recovery" name="DARKPOP/bootable_recovery" remote="gh" revision="dark-5.1" />
-  <project path="dalvik" name="platform/dalvik" />
+  <project path="dalvik" name="DARKPOP/dalvik" remote="gh" revision="dark-5.1" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/lge/hammerhead" name="DARKPOP/device_lge_hammerhead" remote="gh" revision="dark-5.1" />
