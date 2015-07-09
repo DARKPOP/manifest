@@ -24,8 +24,6 @@
   <project path="device/common" name="device/common" />
   <project path="device/lge/hammerhead" name="DARKPOP/device_lge_hammerhead" remote="gh" revision="dark-5.1" />
   <project path="kernel/lge/hammerhead" name="Cl3Kener/UBER-L" remote="gh" revision="optipop" />
-  <project path="device/moto/shamu" name="DARKPOP/device_moto_shamu" remote="gh" revision="dark-5.1" />
-  <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="master" />
   <project path="external/aac" name="platform/external/aac"/>
   <project path="external/android-clat" name="platform/external/android-clat" />
   <project path="external/ant-glob" name="platform/external/ant-glob" />
@@ -49,7 +47,7 @@
   <project path="external/chromium_org" name="DARKPOP/external_chromium_org" remote="gh" revision="dark-5.1" />
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" />
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" />
-  <project path="external/chromium_org/third_party/WebKit" name="OptiPop/external_chromium_org_third_party_WebKit" remote="gh" revision="opti-5.1" />
+  <project path="external/chromium_org/third_party/WebKit" name="DARKPOP/external_chromium_org_third_party_WebKit" remote="gh" revision="dark-5.1" />
   <project path="external/chromium_org/third_party/angle" name="platform/external/chromium_org/third_party/angle" />
   <project path="external/chromium_org/third_party/boringssl/src" name="platform/external/chromium_org/third_party/boringssl/src" />
   <project path="external/chromium_org/third_party/brotli/src" name="platform/external/chromium_org/third_party/brotli/src" />
@@ -70,7 +68,7 @@
   <project path="external/chromium_org/third_party/opus/src" name="platform/external/chromium_org/third_party/opus/src" />
   <project path="external/chromium_org/third_party/ots" name="platform/external/chromium_org/third_party/ots" />
   <project path="external/chromium_org/third_party/sfntly/cpp/src" name="platform/external/chromium_org/third_party/sfntly/cpp/src" />
-  <project path="external/chromium_org/third_party/skia" name="OptiPop/external_chromium_org_third_party_skia" remote="gh" revision="opti-5.1" />
+  <project path="external/chromium_org/third_party/skia" name="DARKPOP/external_chromium_org_third_party_skia" remote="gh" revision="dark-5.1" />
   <project path="external/chromium_org/third_party/smhasher/src" name="platform/external/chromium_org/third_party/smhasher/src" />
   <project path="external/chromium_org/third_party/usrsctp/usrsctplib" name="platform/external/chromium_org/third_party/usrsctp/usrsctplib" />
   <project path="external/chromium_org/third_party/webrtc" name="platform/external/chromium_org/third_party/webrtc" />
@@ -143,7 +141,7 @@
   <project path="external/ksoap2" name="platform/external/ksoap2" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" />
-  <project path="external/libcxx" name="OptiPop/external_libcxx" remote="gh" revision="opti-5.1" />
+  <project path="external/libcxx" name="DARKPOP/external_libcxx" remote="gh" revision="dark-5.1" />
   <project path="external/libcxxabi" name="platform/external/libcxxabi" />
   <project path="external/libedit" name="platform/external/libedit" />
   <project path="external/libexif" name="platform/external/libexif" />
@@ -383,7 +381,7 @@
   <project path="prebuilts/gradle-plugin" name="platform/prebuilts/gradle-plugin" />
   <project path="prebuilts/libs/libedit" name="platform/prebuilts/libs/libedit" />
   <project path="prebuilts/misc" name="platform/prebuilts/misc" />
-  <project path="prebuilts/ndk" name="OptiPop/prebuilts_ndk"  remote="gh" revision="opti-5.1" />
+  <project path="prebuilts/ndk" name="DARKPOP/prebuilts_ndk"  remote="gh" revision="dark-5.1" />
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" clone-depth="1" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
@@ -406,6 +404,5 @@
   <project path="tools/swt" name="platform/tools/swt" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" />
   <project path="vendor/lge" name="DARKPOP/vendor_lge" remote="gh" revision="dark-5.1" />
-  <project path="vendor/moto/shamu" name="OptiPop/vendor_moto_shamu" remote="gh" revision="opti-5.1" />
   <project path="vendor/optipop" name="DARKPOP/vendor" remote="gh" revision="dark-5.1" />
 </manifest>
