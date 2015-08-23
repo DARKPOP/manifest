@@ -357,7 +357,7 @@
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="DARKPOP/packages_providers_TelephonyProvider" remote="gh" revision="dark-5.1" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
-  <project path="packages/services/AntiPiracy" name="AlmightyMegadeth00/AntiPiracySupport" remote="gh" revision="master" />
+  <project path="packages/services/AntiPiracy" name="ContentGuard/AntiPiracySupport" remote="gh" revision="master" />
   <project path="packages/services/Mms" name="platform/packages/services/Mms" />
   <project path="packages/services/Telecomm" name="DARKPOP/packages_services_Telecomm" remote="gh" revision="dark-5.1" />
   <project path="packages/services/Telephony" name="DARKPOP/packages_services_Telephony" remote="gh" revision="dark-5.1" />
