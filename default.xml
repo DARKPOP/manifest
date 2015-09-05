@@ -22,6 +22,8 @@
   <project path="dalvik" name="DARKPOP/dalvik" remote="gh" revision="dark-5.1" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
+  <project path="device/moto/shamu" name="DARKPOP/device_moto_shamu" remote="gh" revision="lp5.1" />
+  <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="BFS-R" />
   <project path="device/lge/hammerhead" name="DARKPOP/device_lge_hammerhead" remote="gh" revision="dark-5.1" />
   <project path="kernel/lge/hammerhead" name="Cl3Kener/UBER-L" remote="gh" revision="optipop" />
   <project path="external/aac" name="platform/external/aac"/>
@@ -403,5 +405,6 @@
   <project path="tools/swt" name="platform/tools/swt" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" />
   <project path="vendor/lge" name="DARKPOP/vendor_lge" remote="gh" revision="dark-5.1" />
+  <project path="vendor/moto" name="DARKPOP/vendor_moto_shamu" remote="gh" revision="lp5.1" />
   <project path="vendor/darkpop" name="DARKPOP/vendor" remote="gh" revision="dark-5.1" />
 </manifest>
