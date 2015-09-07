@@ -11,13 +11,14 @@ Then to sync up:
     repo sync
 
 
-Build commands are
-    
-    . build/envsetup.sh
-    
-    lunch
+Build command is
 
-    make bacon 
+    ./build.sh device -j#
 
+
+Supported Devices
+
+    hammerhead (N5)
+    shamu (N6)
 
 
