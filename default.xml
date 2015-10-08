@@ -23,7 +23,7 @@
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/moto/shamu" name="DARKPOP/android_device_moto_shamu" remote="gh" revision="lp5.1" />
-  <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="BFS-R" />
+  <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="CFS-test" />
   <project path="device/lge/hammerhead" name="DARKPOP/device_lge_hammerhead" remote="gh" revision="dark-5.1" />
   <project path="kernel/lge/hammerhead" name="Cl3Kener/UBER-L" remote="gh" revision="optipop" />
   <project path="external/aac" name="platform/external/aac"/>
